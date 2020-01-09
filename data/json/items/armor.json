@@ -655,10 +655,10 @@
     "looks_like": "kevlar",
     "color": "light_gray",
     "covers": [ "TORSO", "ARMS" ],
-    "coverage": 70,
+    "coverage": 85,
     "encumbrance": 10,
     "warmth": 10,
-    "material_thickness": 5,
+    "material_thickness": 7,
     "flags": [ "STURDY", "OUTER" ]
   },
   {
