@@ -499,7 +499,7 @@
     "weight": "230 g",
     "volume": "100 ml",
     "price": 20000,
-    "price_postapoc": 200,
+    "price_postapoc": 100,
     "material": [ "plastic", "aluminum" ],
     "looks_like": "cell_phone",
     "symbol": ";",
